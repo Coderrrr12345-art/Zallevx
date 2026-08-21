@@ -1,0 +1,6 @@
+{
+  "name": "ZALLEVE - Premium Tech & Gadgets Store",
+  "description": "Ultra high-end eCommerce store for premium tech gadgets, earbuds, smartwatches, speakers, and accessories in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
