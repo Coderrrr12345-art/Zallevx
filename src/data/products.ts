@@ -377,7 +377,7 @@ export const ALL_PRODUCTS: Product[] = [
       "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&auto=format&fit=crop&q=80",
       "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80"
     ],
-    description: "Sleek 45mm curved edge smartwatch with brushed stainless steel finish, metallic Milanese magnetic strap, gesture control, Siri/Google voice assistant, and animated dynamic widgets.",
+    description: "Sleek 45mm curved edge smartwatch with brushed stainless steel finish, metallic Milanese magnetic strap, gesture control, voice assistant, and animated dynamic widgets.",
     features: [
       "Curved 3D Glass edge-to-edge AMOLED display",
       "Double-tap wrist gesture call answer",
@@ -916,15 +916,15 @@ export const ALL_PRODUCTS: Product[] = [
     rating: 4.8,
     sold: 84,
     soldDays: 3,
-    badge: "AI Tracking",
+    badge: "Auto Tracking",
     slug: "360-auto-face-tracking-smart-gimbal",
     images: [
       "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&auto=format&fit=crop&q=80",
       "https://images.unsplash.com/photo-1527011046414-4781f1f94f8c?w=800&auto=format&fit=crop&q=80"
     ],
-    description: "Built-in AI visual sensor automatically tracks your face and body as you move 360 degrees. Zero app or Bluetooth setup required—just turn it on and it follows you smoothly.",
+    description: "Built-in visual sensor automatically tracks your face and body as you move 360 degrees. Zero app or Bluetooth setup required—just turn it on and it follows you smoothly.",
     features: [
-      "Built-in AI Vision Sensor Auto Face & Body Tracking",
+      "Built-in Vision Sensor Auto Face & Body Tracking",
       "Zero App Required: Works with TikTok, Zoom, Camera",
       "Gesture Control (OK to track, Palm to pause)",
       "Standard 1/4\" bottom thread to mount on tripods"
@@ -1263,7 +1263,7 @@ export const ALL_PRODUCTS: Product[] = [
     features: [
       "Loud 90dB sound beep buzzer finder",
       "Two-way find: Double click tag to ring your lost phone",
-      "Last seen location pin on Google Maps / Apple Find My",
+      "Last seen location pin on map / Apple Find My",
       "1-Year replaceable CR2032 battery life"
     ],
     specs: {
